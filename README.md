@@ -29,4 +29,4 @@ Each test case follows a structured format: scenario, precondition, test steps, 
 
 ## 👨‍💻 Author
 **Karim Ahmed Mohamed**  
-[LinkedIn](https://linkedin.com/in/karimahmed) | [Portfolio](https://github.com/karisalim)
+[LinkedIn](https://linkedin.com/in/karim--salim) | [Portfolio](https://github.com/karisalim)
